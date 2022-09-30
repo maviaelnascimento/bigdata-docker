@@ -7,7 +7,7 @@ defusedxml==0.6.0
 demjson==2.2.4
 fudge==1.1.1
 ipykernel==5.1.1
-joblib==0.13.2
+joblib==1.2.0
 jupyter-console==6.0.0
 jupyter-core==4.5.0
 librosa==0.6.3
